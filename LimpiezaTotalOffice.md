@@ -21,6 +21,7 @@ Este es el método más efectivo y confiable si deseas dejar tu sistema completa
 
 - Ejecuta el archivo `.cmd` proporcionado.
 - Este script realiza una limpieza total de los restos de Office en el sistema.
+- [Descargar el script de limpieza de Office](https://www.ejemplo.com/limpieza_office.cmd)
 
 ---
 
